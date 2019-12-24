@@ -1,0 +1,12 @@
+.spinner {
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  top: 40%;
+  bottom: 0;
+}
+.spinner-size{
+width: 10rem; 
+height: 10rem;
+}

@@ -1,0 +1,27 @@
+.Box{
+	border: 2px solid grey;
+	width: 45%;
+	height: 100%;
+	margin-top: 115px;
+	padding: 15px;
+	border-radius: 25px;
+	background-color: ##feffe6
+
+}
+.input-field{
+	margin-top: 50px;
+}
+.tag-line{
+	font-weight: bold;
+	text-align: center;
+}
+.User-Icon{
+	width: 150px;
+	height: 150px;
+	align-self: center;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -22%;
+  /*width: 50%;*/
+}
