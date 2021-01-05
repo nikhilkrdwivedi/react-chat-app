@@ -9,7 +9,7 @@
     "@fortawesome/react-fontawesome": "^0.1.7",
     "mobx": "^3.5.1",
     "mobx-react": "^4.4.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
     "nodemon": "^2.0.1",
